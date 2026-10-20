@@ -4,7 +4,7 @@ body
   font-family: Arial, sans-serif;
   color: #000000;
 }
-.kartu-profil {
+.kartu profil {
   width: 300px;
   margin: 50px auto:
   padding: 20px;
@@ -13,15 +13,15 @@ body
   box-shadow: 0 4px 8px rgba(0,0,0,1);
 }
 
-.kartu-profil img {
+.kartu profil img {
   width: 150px;
   boder-radius: 50%;
 }
 
-.kartu-profil {
+.kartu profil {
   width: 300px;
   margin: 50px auto:
-  padding: 20px;
+  padding : 20px;
   background-color: white;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0,0,0,1);
