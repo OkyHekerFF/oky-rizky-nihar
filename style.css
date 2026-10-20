@@ -5,20 +5,20 @@ body
   color: #000000;
 }
 .kartu-profil {
-  width: 150px;
+  width: 350px;
   margin: 50px auto:
   padding: 20px;
-  background-color: white;
+  background-color: black;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0,0,0,1);
 }
 
 .kartu-profil img {
-  width: 150px;
+  width: 200px;
   boder-radius: 50%;
 }
 
 .kartu-profil {
-  text-align: center;
+  text-align : center;
 }
 
